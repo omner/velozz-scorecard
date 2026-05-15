@@ -1,0 +1,31 @@
+{
+  "id": "v1.4.0",
+  "date": "2025-05-15",
+  "label": "Desempeño Semanal + Bono Mensual",
+  "features": [
+    "DSP Scorecard como pestaña principal con zonas colapsables",
+    "Desempeño Semanal: rankings, KPIs, insights, tendencia, tabla DA",
+    "Desempeño Mensual: bono Abril 2026 DGD4 (48 DAs, 3 helpers identificados)",
+    "Semanas S16-S19 con datos completos",
+    "Selector de semana único con indicador 🏅 para semanas con bono",
+    "Tabla de normas semanales + tabla de premios con nota de sanciones",
+    "Tabla de bonos: drivers $275, helpers $175 calidad / $0 seguridad",
+    "parseDSPAndDeploy con detección de duplicados (DSP + Bono)",
+    "Parser de Bono Mensual automático desde Drive",
+    "ID map desde SCORECARD VELOZZ + DATA_AMAZON (más reciente gana)",
+    "Tab DNR restaurado y funcional",
+    "Tooltips con JS tipBox (position:fixed z-index:99999)",
+    "Mobile responsive: norms-grid una columna en ≤700px"
+  ],
+  "pending": [
+    "Parser DA tabla S19 devuelve 0 DAs",
+    "Estación XMX3 pendiente de integrar",
+    "Columna Sanciones fuente de datos pendiente",
+    "A29OH0L7MBQE9K sin nombre en Excel",
+    "Identificación formal de helpers"
+  ],
+  "checksums": {
+    "prefix": "dff8f2a0988a",
+    "suffix": "a554d17bf529"
+  }
+}
